@@ -1,0 +1,19 @@
+// Nova Tool CSS
+.animate-text-color {
+  transition: color .5s;
+}
+
+.quill-editor{
+  min-height: 500px;
+}
+
+.quill-editor .ql-container{
+  min-height: 500px;
+}
+
+.ql-snow .ql-editor img{
+  max-width: 480px;
+}
+.ql-editor .ql-video{
+  max-width: 480px;
+}
